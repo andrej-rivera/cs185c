@@ -173,3 +173,14 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+homework/homework_10/eccoseas/
+homework/homework_10/homework_9/eccoseas/
+homework/homework_9/eccoseas/
+project/eccoseas/
+project/exf/VWIND_1997
+project/exf/UWIND_1997
+project/exf/SWDOWN_1997
+project/exf/PRECIP_1997
+project/exf/LWDOWN_1997
+project/exf/ATEMP_1997
+project/exf/AQH_1997
