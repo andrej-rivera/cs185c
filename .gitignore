@@ -184,3 +184,5 @@ project/exf/PRECIP_1997
 project/exf/LWDOWN_1997
 project/exf/ATEMP_1997
 project/exf/AQH_1997
+project/data/*
+project/input/*
